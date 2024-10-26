@@ -1,6 +1,7 @@
-## blah9
+## [BLAH9](https://blah9.linkedannotation.org/)
 Project proposal for the Biomedical Linked Annotation Hackathon 9
 # Dataset extraction from Graph & Vector DB with automatic relation generation using LLM
+[Github repository](https://github.com/Francan/blah9/)
 
 ## Abstract
 Biomedical datasets for AI training are becoming increasingly available, yet each still requires extensive analysis to assess intra-dataset connections, column relevance, etc., which enforces repetitive per-project manual work to find and select the relevant data.
