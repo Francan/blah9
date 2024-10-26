@@ -29,9 +29,9 @@ The objective is to expedite the data selection process, enabling a data-lake-li
 
 ## Datasets:
 As a provisional dataset selection, the following are datasets in the biomedical fields that may be used throughout the development. All are openly accessible, and contain data related to drugs and diseases.
-- https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018: A dataset containing data about drugs, the patient condition and patients’ review of the drug.
-- https://www.kaggle.com/datasets/sergeguillemart/drugbank/data: Renown Drugbank collection of drugs information such as name, brand names and indications.
-- https://healthdata.gov/dataset/Project-Tycho-Level-1-Data/g89t-x93h/about_data: Dataset about diseases counts by US states and cities.
+- [https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018](kuc-hackathon-winter-2018): A dataset containing data about drugs, the patient condition and patients’ review of the drug.
+- [https://www.kaggle.com/datasets/sergeguillemart/drugbank/data](drugbank): Renown Drugbank collection of drugs information such as name, brand names and indications.
+- [https://healthdata.gov/dataset/Project-Tycho-Level-1-Data/g89t-x93h/about_data](Project-Tycho-Level-1-Data): Dataset about diseases counts by US states and cities.
 
 
 While the datasets have been chosen as candidates to highlight the goal of the proposed project, they are not meant as a one-off use case for this solution.
