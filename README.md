@@ -1,4 +1,4 @@
-# blah9
+## blah9
 Project proposal for the Biomedical Linked Annotation Hackathon 9
 # Dataset extraction from Graph & Vector DB with automatic relation generation using LLM
 
@@ -33,5 +33,5 @@ As a provisional dataset selection, the following are datasets in the biomedical
 
 While the datasets have been chosen as candidates to highlight the goal of the proposed project, they are not meant as a one-off use case for this solution.
 
-![Reference image](/assets/images/proposal_image.png "Proposal Image")
+[![Reference image](/assets/images/proposal_image.png "Proposal Image")](https://github.com/Francan/blah9/blob/main/assets/images/proposal_image.png)
 
