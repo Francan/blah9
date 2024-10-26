@@ -1,0 +1,3 @@
+theme: jekyll-theme-minimal
+title: Dataset extraction from Graph & Vector DB with automatic relation generation using LLM
+description: This project automates the integration and analysis of biomedical datasets by loading them into a graph database, where relationships between data entities are automatically generated. Users can query the database in natural language to quickly identify relevant data for their needs. This reduces manual analysis time, speeds up dataset selection, and uncovers hidden connections between data points.
