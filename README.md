@@ -15,16 +15,22 @@ The objective is to expedite the data selection process, enabling a data-lake-li
 3. Entity Relation automatic generation: Explore LLM for generating automatic entity relations.
 4. User query: Explore embeddings & similarity scores versus LLM for returning the most fitting data selection to the user.
 5. Validation: compare the automatic system selection relevance, against a fixed set of known optimal results.
+
+
 ## Technology Stack:
 - Neo4j: Neo4J is a database that supports both graph and vector storage, which simplifies data retrieval when using vector similarity-based algorithms.
 - LLM: given the constrained time available for the hackathon, training or fine-tuning an AI may be detrimental to achieving the set goals, therefore a more sensible alternative would be to employ off-the-shelf SOTA LLMs, such as ChatGPT or Gemini.
 - Python: python is the most widely used programming language when working with AI, and provide numerous libraries and frameworks suited for AI projects.
 - Langchain: Langchain is a framework that simplifies the creation of LLM’s chains, from prompting, to RAG strategies. The use of Langchain would greatly abstract the development from the LLM of choice API and standardize the workflow around good practices.
+
+
 ## Datasets:
 As a provisional dataset selection, the following are datasets in the biomedical fields that may be used throughout the development. All are openly accessible, and contain data related to drugs and diseases.
 - https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018: A dataset containing data about drugs, the patient condition and patients’ review of the drug.
 - https://www.kaggle.com/datasets/sergeguillemart/drugbank/data: Renown Drugbank collection of drugs information such as name, brand names and indications.
 - https://healthdata.gov/dataset/Project-Tycho-Level-1-Data/g89t-x93h/about_data: Dataset about diseases counts by US states and cities.
+
+
 While the datasets have been chosen as candidates to highlight the goal of the proposed project, they are not meant as a one-off use case for this solution.
 
 ![Reference image](/assets/images/proposal_image.png "Proposal Image")
