@@ -2,7 +2,7 @@
 Project proposal for the Biomedical Linked Annotation Hackathon 9
 
 # AutoDataset
-Automatic dataset extraction from pre-computed graph store using LLM for relation and query to cypher generation.
+Dataset extraction from auto-generated graph store using LLM for relation and query to cypher generation.
 
 ## Abstract
 Biomedical datasets for AI training are becoming increasingly available, yet each still requires extensive analysis to assess intra-dataset connections, column relevance, etc., which enforces repetitive per-project manual work to find and select the relevant data.
