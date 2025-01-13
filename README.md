@@ -2,7 +2,7 @@
 Project proposal for the Biomedical Linked Annotation Hackathon 9
 
 # AutoDataset
-## Dataset extraction from Graph & Vector DB with automatic relation generation using LLM
+Dataset extraction from Graph & Vector DB with automatic relation generation using LLM
 
 ## Abstract
 Biomedical datasets for AI training are becoming increasingly available, yet each still requires extensive analysis to assess intra-dataset connections, column relevance, etc., which enforces repetitive per-project manual work to find and select the relevant data.
