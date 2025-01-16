@@ -1,0 +1,26 @@
+// Local settings
+{
+    "files.exclude": {
+        ".venv/": true,
+        "**/__pycache__": true,
+
+    },
+    "[python]": {
+        // Default formatter
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        // Format file on save
+        "editor.formatOnSave": true,
+    },
+    // Controls the Python language server's type checking mode off, basic or strict.
+    "python.analysis.typeCheckingMode": "basic",
+    // Path to exclude from the analysis
+    "python.analysis.exclude": [
+        "**/.venv/**"
+    ],
+    // Maximum number of user files to index in the workspace (default 2000)
+    "python.analysis.userFileIndexingLimit": 2000,
+    // Help in importing modules
+    "python.analysis.autoImportCompletions": true,
+    // When typing a { in a string, automatically puts an f on the front of the string.
+    "python.analysis.autoFormatStrings": true,
+}
