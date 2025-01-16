@@ -1,0 +1,23 @@
+[project]
+name = "blah9"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Andrea Franchini", email = "andrea.franchini@idsia.ch"},
+]
+dependencies = [
+    "pandas>=2.2.3",
+    "ipykernel>=6.29.5",
+    "lxml>=5.3.0",
+    "langchain>=0.3.14",
+    "neo4j>=5.27.0",
+    "langchain-neo4j>=0.2.0",
+    "langchain-openai>=0.3.0",
+]
+requires-python = "==3.12.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
